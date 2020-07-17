@@ -5,4 +5,4 @@ Using Decorator Design Patterrn strategy solve the following problems. There's a
 
 ![Screenshot from 2020-04-07 23-23-36](https://user-images.githubusercontent.com/63167915/78722087-11f35080-7929-11ea-8c0e-5e5a65018d00.png)
 
-So, using Decorator Patterrn Design Pattern Strategy will solve the previous problem. Check this [document](https://github.com/AmirHaytham/Software-Engineering-Assignments/blob/master/Assignment-1/Decorator%20Design%20Pattern.pdf) for more details.
+So, using Decorator Design Pattern Strategy will solve the previous problem. Check this [document](https://github.com/AmirHaytham/Software-Engineering-Assignments/blob/master/Assignment-1/Decorator%20Design%20Pattern.pdf) for more details.
